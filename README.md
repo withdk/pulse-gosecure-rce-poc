@@ -5,7 +5,7 @@ Proof of concept tool to test for the existence of Pulse Secure RCE (CVE-2020-82
 This tool was built around the POC from the GoSecure advisory (see refs). All credit to them for the finding.
 
 As recommended by Pulse Secure:
-"The solution for these vulnerabilities is to upgrade the Pulse Connect Secure and Pulse Policy Secure server software version to the 9.1R8. This following PCS/PPS version can be downloaded from https://my.pulsesecure.net."
+***"The solution for these vulnerabilities is to upgrade the Pulse Connect Secure and Pulse Policy Secure server software version to the 9.1R8. This following PCS/PPS version can be downloaded from https://my.pulsesecure.net."***
 
 Author:
 DK @withdk
