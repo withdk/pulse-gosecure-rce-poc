@@ -1,5 +1,28 @@
 # pulse-gosecure-rce
 
+          _____                    _____                    _____            _____                    _____          
+         /\    \                  /\    \                  /\    \          /\    \                  /\    \         
+        /::\    \                /::\____\                /::\____\        /::\    \                /::\    \        
+       /::::\    \              /:::/    /               /:::/    /       /::::\    \              /::::\    \       
+      /::::::\    \            /:::/    /               /:::/    /       /::::::\    \            /::::::\    \      
+     /:::/\:::\    \          /:::/    /               /:::/    /       /:::/\:::\    \          /:::/\:::\    \     
+    /:::/__\:::\    \        /:::/    /               /:::/    /       /:::/__\:::\    \        /:::/__\:::\    \    
+   /::::\   \:::\    \      /:::/    /               /:::/    /        \:::\   \:::\    \      /::::\   \:::\    \   
+  /::::::\   \:::\    \    /:::/    /      _____    /:::/    /       ___\:::\   \:::\    \    /::::::\   \:::\    \  
+ /:::/\:::\   \:::\____\  /:::/____/      /\    \  /:::/    /       /\   \:::\   \:::\    \  /:::/\:::\   \:::\    \ 
+/:::/  \:::\   \:::|    ||:::|    /      /::\____\/:::/____/       /::\   \:::\   \:::\____\/:::/__\:::\   \:::\____\
+\::/    \:::\  /:::|____||:::|____\     /:::/    /\:::\    \       \:::\   \:::\   \::/    /\:::\   \:::\   \::/    /
+ \/_____/\:::\/:::/    /  \:::\    \   /:::/    /  \:::\    \       \:::\   \:::\   \/____/  \:::\   \:::\   \/____/ 
+          \::::::/    /    \:::\    \ /:::/    /    \:::\    \       \:::\   \:::\    \       \:::\   \:::\    \     
+           \::::/    /      \:::\    /:::/    /      \:::\    \       \:::\   \:::\____\       \:::\   \:::\____\    
+            \::/____/        \:::\__/:::/    /        \:::\    \       \:::\  /:::/    /        \:::\   \::/    /    
+             ~~               \::::::::/    /          \:::\    \       \:::\/:::/    /          \:::\   \/____/     
+                               \::::::/    /            \:::\    \       \::::::/    /            \:::\    \         
+                                \::::/    /              \:::\____\       \::::/    /              \:::\____\        
+                                 \::/____/                \::/    /        \::/    /                \::/    /        
+                                  ~~                       \/____/          \/____/                  \/____/         
+                                                                                                                     
+
 Proof of concept tool to test for the existence of Pulse Secure RCE (CVE-2020-8218).
 
 This tool was built around the POC from the GoSecure advisory (see refs). All credit to them for the finding.
@@ -53,3 +76,6 @@ Bye
 [*] Sending logout URL
 [*] Successfully logged out.
 ```
+
+## Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
