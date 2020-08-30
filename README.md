@@ -25,7 +25,7 @@
   ```                                                                                                                   
 
 ## About
-Proof of concept tool to test for the existence of Pulse Secure RCE (CVE-2020-8218). This tool was built around the POC from the GoSecure advisory (see refs). All credit to them for the finding.
+Proof of concept tool to test for the existence of Pulse Secure RCE (CVE-2020-8218) and to encourage further research. This tool was built around the POC from the GoSecure advisory. All credit to them for the finding. 
 
 ## Recommended Fix
 As recommended by Pulse Secure:
