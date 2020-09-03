@@ -76,7 +76,7 @@ Bye
 [*] Successfully logged out.
 ```
 
-DK @withdk
+DK @withdk  
 September 2020
 
 ## Disclaimer
